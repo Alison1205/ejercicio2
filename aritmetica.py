@@ -22,3 +22,10 @@ def potencia_ENCINAS_CACERES_CRISTIAN(base, exponente):
 print("Resultado:", potencia_ENCINAS_CACERES_CRISTIAN(2, 3))
 
 
+
+def modulo_mamani_yujra_alison(a, b):
+    return a % b
+
+print("Resultado:", modulo_mamani_yujra_alison(10, 3))
+
+
