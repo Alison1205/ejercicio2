@@ -28,4 +28,3 @@ def modulo_mamani_yujra_alison(a, b):
 
 print("Resultado:", modulo_mamani_yujra_alison(10, 3))
 
-
